@@ -1,0 +1,4 @@
+do.core.validation=true
+eclipse.preferences.version=1
+expression.language=Java;http\://www.java.com/java
+target.runtime=org.jboss.runtime.jbpm5
